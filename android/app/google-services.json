@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "886837966090",
+    "project_id": "pronouncekiswahili",
+    "storage_bucket": "pronouncekiswahili.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886837966090:android:ddff009f4e44c969f436f3",
+        "android_client_info": {
+          "package_name": "com.example.pronounce_kiswahili"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886837966090-msedmnevmf2mfc66ec1mdlqke0v17cs5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATqt5vGt1i1NQDKKnBqYYGq3VlJxiiS3s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886837966090-msedmnevmf2mfc66ec1mdlqke0v17cs5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
